@@ -1237,3 +1237,68 @@ Continue: Skip saving this asset only.
 [2021.10.01-03.16.01:327][412]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
 [2021.10.01-03.16.01:327][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.10.01-03.16.03:457][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.10.01-03.16.34:516][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2021.10.01-03.18.19:824][165]LogEditorViewport: Clicking on Actor (LMB): Turret_joystick_C (Turret_joystick)
+[2021.10.01-03.18.45:741][ 53]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-03.27.25:723][390]LogEditorTransaction: Undo Delete current selection
+[2021.10.01-03.27.27:407][526]LogEditorTransaction: Undo Move Node
+[2021.10.01-03.28.12:065][955]LogEditorTransaction: Undo Delete current selection
+[2021.10.01-03.29.03:932][873]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystickD10551144090525C262D689B8BCADCFE.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Turret_joystick.uasset'
+[2021.10.01-03.29.03:946][873]AssetCheck: New page: Asset Save: Turret_joystick
+[2021.10.01-03.29.03:946][873]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-03.29.04:978][956]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-03.29.05:043][956]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.10.01-03.29.06:749][ 97]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.29.06:752][ 97]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.29.06:752][ 97]LogSlate: Window 'Turret_joystick' being destroyed
+[2021.10.01-03.29.06:761][ 97]LogSlate: Window 'Turret_joystick' being destroyed
+[2021.10.01-03.29.06:763][ 97]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-03.29.06:763][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-03.29.33:982][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-03.29.45:633][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-03.32.08:897][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2021.10.01-03.34.27:204][917]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-03.34.27:280][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.10.01-03.34.41:788][140]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-03.34.41:848][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.10.01-03.34.57:114][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.10.01-03.35.23:796][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.10.01-03.35.23:947][351]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap_Auto317B0190F49FBEAA81521F7ABD2E2A4AF.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto3.umap'
+[2021.10.01-03.35.23:949][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.179
+[2021.10.01-03.35.23:949][351]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.179
+[2021.10.01-03.35.23:950][351]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Turret_joystick] ([4] browsable assets)...
+[2021.10.01-03.35.23:958][351]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick]
+[2021.10.01-03.35.23:964][351]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick]
+[2021.10.01-03.35.23:965][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Turret_joystick]
+[2021.10.01-03.35.24:035][351]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystick_Auto3CF55D8364D6ED79F1976C4BED1D9A36C.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/Turret_joystick_Auto3.uasset'
+[2021.10.01-03.35.24:036][351]LogFileHelpers: Auto-saving content packages took 0.086
+[2021.10.01-03.41.55:493][379]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-03.41.55:567][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.10.01-03.41.56:628][421]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystick95909EB04DBD506A831FB5B97B123C2D.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Turret_joystick.uasset'
+[2021.10.01-03.41.56:645][421]AssetCheck: New page: Asset Save: Turret_joystick
+[2021.10.01-03.41.56:645][421]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-03.42.18:075][599]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystick18510496485C6F1FDB10358ADE636BA9.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Turret_joystick.uasset'
+[2021.10.01-03.42.18:090][599]AssetCheck: New page: Asset Save: Turret_joystick
+[2021.10.01-03.42.18:090][599]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-03.42.19:160][674]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-03.42.19:214][674]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.10.01-03.42.21:728][845]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.42.21:731][845]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.42.21:739][845]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.42.21:745][845]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.42.21:747][845]LogSlate: Window 'StandardMacros' being destroyed
+[2021.10.01-03.42.21:756][845]LogSlate: Window 'StandardMacros' being destroyed
+[2021.10.01-03.42.21:760][845]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-03.42.21:761][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-03.42.21:813][845]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-03.42.21:813][845]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-03.42.21:814][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-03.42.21:867][845]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-03.42.21:867][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-03.42.27:577][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.10.01-03.42.27:732][465]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap309190C246F64C34483D228CFA8AB2D4.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2021.10.01-03.42.28:136][465]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap_BuiltData511D935E47508A01C2E430A3A8CD0099.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2021.10.01-03.42.28:154][465]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-03.42.28:154][465]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2021.10.01-03.42.28:154][465]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2021.10.01-03.42.29:793][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
