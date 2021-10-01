@@ -1276,3 +1276,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-01.02.53:717][259]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
 [2021.10.01-01.02.54:091][259]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
 [2021.10.01-01.02.54:091][259]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.10.01-01.10.09:820][432]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/TurretGun63C868AA4A30094D549B31B001AD9B70.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/TurretGun.uasset'
+[2021.10.01-01.10.09:833][432]AssetCheck: New page: Asset Save: TurretGun
+[2021.10.01-01.10.09:833][432]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-01.12.13:852][604]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Pistol.Pistol
+[2021.10.01-01.13.41:767][914]BlueprintLog: New page: Compile TurretGun
+[2021.10.01-01.13.41:827][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.10.01-01.14.40:423][559]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_Grab2E1381F04307C614313646A35283DAF5.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Turret_Grab.uasset'
+[2021.10.01-01.14.40:434][559]AssetCheck: New page: Asset Save: Turret_Grab
+[2021.10.01-01.14.40:434][559]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Turret_Grab.Turret_Grab
+[2021.10.01-01.15.05:313][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.10.01-01.15.05:486][712]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap_Auto1898108D5416EF8CD3D471EB489C123A1.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2021.10.01-01.15.05:493][712]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.213
+[2021.10.01-01.15.05:493][712]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.213
+[2021.10.01-01.15.05:494][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Grabbable_SmallCube] ([2] browsable assets)...
+[2021.10.01-01.15.05:503][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Grabbable_SmallCube.Grabbable_SmallCube]
+[2021.10.01-01.15.05:503][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Grabbable_SmallCube]
+[2021.10.01-01.15.05:525][712]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Grabbable_SmallCube_Auto1AEF4C6564A2E6DB354A8F987E77F74A2.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/Grabbable_SmallCube_Auto1.uasset'
+[2021.10.01-01.15.05:526][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Pistol] ([2] browsable assets)...
+[2021.10.01-01.15.05:535][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Pistol.Pistol]
+[2021.10.01-01.15.05:535][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Pistol]
+[2021.10.01-01.15.05:574][712]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Pistol_Auto10344C35C4C5081357B24259096FD6856.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/Pistol_Auto1.uasset'
+[2021.10.01-01.15.05:576][712]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2021.10.01-01.15.05:576][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2021.10.01-01.15.05:917][712]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn_Auto15292A84D4A79DF9BEDD9E9B744F0DA5A.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1.uasset'
+[2021.10.01-01.15.05:918][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/Turret_joystick] ([2] browsable assets)...
+[2021.10.01-01.15.05:925][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick]
+[2021.10.01-01.15.05:925][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/Turret_joystick]
+[2021.10.01-01.15.05:950][712]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystick_Auto1D802580C4281921E39D3B08ED32780E6.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/Turret_joystick_Auto1.uasset'
+[2021.10.01-01.15.05:952][712]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/TurretGun] ([2] browsable assets)...
+[2021.10.01-01.15.05:958][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun]
+[2021.10.01-01.15.05:958][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/TurretGun]
+[2021.10.01-01.15.05:980][712]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/TurretGun_Auto112C584AE47FDBB0A9189728A008BFB83.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/TurretGun_Auto1.uasset'
+[2021.10.01-01.15.05:981][712]LogFileHelpers: Auto-saving content packages took 0.487
+[2021.10.01-01.18.27:736][473]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{daf7fe38-7da7-4976-8bd8-21fbb25f2bea}.
+[2021.10.01-01.18.27:745][473]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.18.28:190][473]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.18.28:190][473]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.18.33:732][474]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.18.33:835][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.18.33:835][474]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.23.49:681][951]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.23.49:714][951]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.23.49:714][951]LogAudioMixer: Display: 1: FrontRight
