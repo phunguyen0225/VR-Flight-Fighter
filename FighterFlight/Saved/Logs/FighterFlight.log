@@ -1302,3 +1302,52 @@ Continue: Skip saving this asset only.
 [2021.10.01-03.42.28:154][465]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
 [2021.10.01-03.42.28:154][465]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
 [2021.10.01-03.42.29:793][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.10.01-03.43.44:306][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2021.10.01-03.43.44:824][589]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.10.01-03.43.44:824][589]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.10.01-03.43.55:272][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2021.10.01-03.46.05:940][947]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.46.05:943][947]LogSlate: Window 'Compiler Results' being destroyed
+[2021.10.01-03.46.05:943][947]LogSlate: Window 'VRPawn' being destroyed
+[2021.10.01-03.46.05:952][947]LogSlate: Window 'VRPawn' being destroyed
+[2021.10.01-03.46.05:955][947]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-03.46.05:956][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-03.46.19:906][331]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-03.47.03:511][332]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-03.47.42:119][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.10.01-03.47.46:645][ 81]LogEditorViewport: Clicking on Actor (LMB): TurretGun_C (TurretGun)
+[2021.10.01-03.47.47:524][181]LogEditorViewport: Clicking on Actor (LMB): Turret_joystick_C (Turret_joystick)
+[2021.10.01-03.52.29:663][927]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2021.10.01-03.52.30:845][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.10.01-03.52.30:847][944]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.033
+[2021.10.01-03.52.30:847][944]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/TurretGun] ([2] browsable assets)...
+[2021.10.01-03.52.30:855][944]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun]
+[2021.10.01-03.52.30:855][944]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/TurretGun]
+[2021.10.01-03.52.30:910][944]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/TurretGun_Auto4B9C3AE354BBC9AD152F87DB870DABAB9.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/TurretGun_Auto4.uasset'
+[2021.10.01-03.52.30:911][944]LogFileHelpers: Auto-saving content packages took 0.065
+[2021.10.01-03.54.52:696][297]BlueprintLog: New page: Compile VRPawn
+[2021.10.01-03.54.52:780][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.10.01-03.54.55:396][499]BlueprintLog: New page: Compile TurretGun
+[2021.10.01-03.54.55:448][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.10.01-03.56.14:036][755]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-03.56.14:099][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.10.01-03.56.58:735][484]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.10.01-03.57.01:200][640]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.10.01-03.57.01:208][640]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.10.01-03.57.58:252][621]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-03.57.58:334][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.10.01-03.58.20:480][466]BlueprintLog: New page: Compile VRPawn
+[2021.10.01-03.58.20:553][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.10.01-03.59.18:582][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.10.01-03.59.18:621][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.10.01-03.59.18:772][621]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap55B929D34520CB00EA87A0B9E7F96FCA.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2021.10.01-03.59.18:778][621]LogFileHelpers: Saving map 'VRTemplateMap' took 0.180
+[2021.10.01-03.59.18:861][621]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystickD89F0A144CF4368B91F46BA7E01CD8D5.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Turret_joystick.uasset'
+[2021.10.01-03.59.18:919][621]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/TurretGun35DC5D61412F26AF7BC97BB80FCB260E.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/TurretGun.uasset'
+[2021.10.01-03.59.18:921][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2021.10.01-03.59.19:264][621]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn9A3C45A74C06003AAEA686BD7295C6FC.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2021.10.01-03.59.19:281][621]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-03.59.19:281][621]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-03.59.19:281][621]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-03.59.19:281][621]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2021.10.01-03.59.19:281][621]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
