@@ -1469,3 +1469,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-01.46.27:181][421]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystick_Auto207A5B78944FC69A978F7208EEA17A738.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/Turret_joystick_Auto2.uasset'
 [2021.10.01-01.46.27:182][421]LogFileHelpers: Auto-saving content packages took 0.054
 [2021.10.01-01.47.01:802][926]LogEditorViewport: Clicking on Actor (LMB): TurretGun_C (TurretGun)
+[2021.10.01-01.47.32:700][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.10.01-01.47.36:622][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.10.01-01.47.36:675][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.01-01.47.37:028][689]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap14C96BBA4401A55B15AE49A1FD8C9653.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2021.10.01-01.47.37:035][689]LogFileHelpers: Saving map 'VRTemplateMap' took 0.379
+[2021.10.01-01.47.37:056][689]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Grabbable_SmallCube8A394F664144EA9401FD649190590C22.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset'
+[2021.10.01-01.47.37:058][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/Pistol" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Pistol.uasset" SILENT=true
+[2021.10.01-01.47.37:105][689]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Pistol9D60E5484501CF86F1D76990F8AD92C2.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Pistol.uasset'
+[2021.10.01-01.47.37:108][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2021.10.01-01.47.37:485][689]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn375F501649E8A94B7F415E987804D45A.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2021.10.01-01.47.37:497][689]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/NewBlueprint46661CF54969D3C63A59AA8B82AA4CB7.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/NewBlueprint.uasset'
+[2021.10.01-01.47.37:531][689]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystick9E9FA8454FD3439BB76C6C96ADE758C9.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Turret_joystick.uasset'
+[2021.10.01-01.47.37:550][689]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-01.47.37:550][689]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Grabbable_SmallCube.Grabbable_SmallCube
+[2021.10.01-01.47.37:550][689]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Pistol.Pistol
+[2021.10.01-01.47.37:550][689]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2021.10.01-01.47.37:550][689]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2021.10.01-01.47.37:550][689]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/NewBlueprint.NewBlueprint
+[2021.10.01-01.47.37:550][689]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
