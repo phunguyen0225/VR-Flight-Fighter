@@ -1319,3 +1319,142 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.01-01.23.49:681][951]LogAudioMixer: Resetting audio stream to device id 
 [2021.10.01-01.23.49:714][951]LogAudioMixer: Display: 0: FrontLeft
 [2021.10.01-01.23.49:714][951]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.27.06:387][670]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{daf7fe38-7da7-4976-8bd8-21fbb25f2bea}.
+[2021.10.01-01.27.06:388][670]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.27.09:557][670]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.27.09:557][670]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.27.10:657][671]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.27.11:133][671]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.27.11:133][671]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.27.25:653][907]LogContentBrowser: Attempting asset rename: TurretGun -> TurretGun
+[2021.10.01-01.27.25:806][920]LogSlate: Window 'Pistol' being destroyed
+[2021.10.01-01.27.25:812][920]LogSlate: Window 'Pistol' being destroyed
+[2021.10.01-01.27.25:852][920]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.27.25:852][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.27.25:908][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-01.27.25:908][920]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.27.25:908][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.27.25:950][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-01.27.25:950][920]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.27.25:950][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.27.25:996][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-01.27.25:996][920]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.27.25:996][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.27.26:062][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-01.27.26:062][920]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.27.26:062][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.28.26:499][252]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.28.26:508][252]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.28.26:508][252]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.28.27:837][256]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.28.27:844][256]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.28.27:845][256]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.28.28:560][258]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{cf4f1c17-1875-4958-b6ab-5e740e957402}.
+[2021.10.01-01.28.28:560][258]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 4: BackLeft
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 5: BackRight
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 6: SideLeft
+[2021.10.01-01.28.29:282][258]LogAudioMixer: Display: 7: SideRight
+[2021.10.01-01.28.30:484][259]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 4: BackLeft
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 5: BackRight
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 6: SideLeft
+[2021.10.01-01.28.30:798][259]LogAudioMixer: Display: 7: SideRight
+[2021.10.01-01.28.34:042][268]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{daf7fe38-7da7-4976-8bd8-21fbb25f2bea}.
+[2021.10.01-01.28.34:042][268]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.28.38:129][268]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.28.38:129][268]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.28.38:419][269]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.28.38:533][269]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.28.38:533][269]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.32.29:853][960]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.32.29:862][960]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.32.29:862][960]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.32.29:924][960]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 1291)
+[2021.10.01-01.32.30:854][963]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.32.30:858][963]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.32.30:858][963]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.32.30:914][963]LogAudioMixer: Error: XAudio2 Error: XAudio2System->CreateMasteringVoice( &OutputAudioStreamMasteringVoice, AudioStreamInfo.DeviceInfo.NumChannels, AudioStreamInfo.DeviceInfo.SampleRate, 0, nullptr, nullptr, AudioCategory_GameEffects) -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 1291)
+[2021.10.01-01.32.31:616][965]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{cf4f1c17-1875-4958-b6ab-5e740e957402}.
+[2021.10.01-01.32.31:616][965]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 4: BackLeft
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 5: BackRight
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 6: SideLeft
+[2021.10.01-01.32.32:022][965]LogAudioMixer: Display: 7: SideRight
+[2021.10.01-01.32.33:261][966]LogAudioMixer: Resetting audio stream to device id 
+[2021.10.01-01.32.33:419][966]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.01-01.32.33:419][966]LogAudioMixer: Display: 1: FrontRight
+[2021.10.01-01.32.33:419][966]LogAudioMixer: Display: 2: FrontCenter
+[2021.10.01-01.32.33:420][966]LogAudioMixer: Display: 3: LowFrequency
+[2021.10.01-01.32.33:420][966]LogAudioMixer: Display: 4: BackLeft
+[2021.10.01-01.32.33:420][966]LogAudioMixer: Display: 5: BackRight
+[2021.10.01-01.32.33:420][966]LogAudioMixer: Display: 6: SideLeft
+[2021.10.01-01.32.33:420][966]LogAudioMixer: Display: 7: SideRight
+[2021.10.01-01.33.03:008][221]LogEditorViewport: Clicking on Actor (LMB): TurretGun_C (TurretGun)
+[2021.10.01-01.33.09:896][605]LogEditorViewport: Clicking on Actor (LMB): TurretGun_C (TurretGun)
+[2021.10.01-01.33.29:624][753]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-01.33.51:206][795]BlueprintLog: New page: Compile TurretGun
+[2021.10.01-01.33.51:255][795]LogSlate: Slate User Unregistered.  User Index 8
+[2021.10.01-01.33.51:255][795]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2021.10.01-01.33.51:257][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.10.01-01.33.52:577][908]LogSlate: Window 'TurretGun' being destroyed
+[2021.10.01-01.33.52:585][908]LogSlate: Window 'TurretGun' being destroyed
+[2021.10.01-01.33.52:587][908]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.33.52:587][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.34.01:676][915]LogEditorViewport: Clicking on Actor (LMB): Turret_joystick_C (Turret_joystick)
+[2021.10.01-01.34.04:750][274]LogEditorViewport: Clicking on Actor (LMB): TurretGun_C (TurretGun)
+[2021.10.01-01.34.07:817][637]LogEditorViewport: Clicking on Actor (LMB): Turret_joystick_C (Turret_joystick)
+[2021.10.01-01.34.09:604][840]LogEditorViewport: Clicking on Actor (LMB): TurretGun_C (TurretGun)
+[2021.10.01-01.34.11:221][ 26]Cmd: DUPLICATE
+[2021.10.01-01.34.11:221][ 26]Cmd: ACTOR DUPLICATE
+[2021.10.01-01.34.12:515][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.10.01-01.34.12:668][167]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap619DE11345CECE4C8D8E8A9E84F65056.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Maps/VRTemplateMap.umap'
+[2021.10.01-01.34.13:073][167]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRTemplateMap_BuiltDataF064ADB241A00376039B62BE9AC62D75.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset'
+[2021.10.01-01.34.13:090][167]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.01-01.34.13:090][167]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VRTemplate/Maps/VRTemplateMap_BuiltData.VRTemplateMap_BuiltData
+[2021.10.01-01.34.13:090][167]LogContentValidation: Display: Validating World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap
+[2021.10.01-01.38.54:577][812]Cmd: DELETE
+[2021.10.01-01.38.54:582][812]Cmd: ACTOR DELETE
+[2021.10.01-01.38.54:589][812]LogEditorActor: Deleted Actor: TurretGun_C
+[2021.10.01-01.38.54:618][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.10.01-01.38.54:624][812]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.10.01-01.39.00:449][433]LogEditorViewport: Clicking on Actor (LMB): TurretGun_C (TurretGun)
+[2021.10.01-01.39.03:012][669]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-01.42.15:787][ 23]BlueprintLog: New page: Compile TurretGun
+[2021.10.01-01.42.15:835][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.10.01-01.42.36:608][  5]LogSlate: Window 'TurretGun' being destroyed
+[2021.10.01-01.42.36:616][  5]LogSlate: Window 'TurretGun' being destroyed
+[2021.10.01-01.42.36:645][  5]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.42.36:645][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.42.42:512][682]LogEditorViewport: Clicking on Actor (LMB): Turret_joystick_C (Turret_joystick)
+[2021.10.01-01.42.44:045][856]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
+[2021.10.01-01.43.11:561][804]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-01.43.56:933][748]BlueprintLog: New page: Compile TurretGun
+[2021.10.01-01.43.56:977][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.10.01-01.44.26:508][482]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-01.44.26:565][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.10.01-01.45.16:966][ 78]BlueprintLog: New page: Compile Turret_joystick
+[2021.10.01-01.45.17:028][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.10.01-01.45.23:429][605]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/TurretGun0829EF9C4E49367BB100D3B966550639.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/TurretGun.uasset'
+[2021.10.01-01.45.23:446][605]AssetCheck: New page: Asset Save: TurretGun
+[2021.10.01-01.45.23:446][605]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/TurretGun.TurretGun
+[2021.10.01-01.45.24:890][725]LogSlate: Window 'TurretGun' being destroyed
+[2021.10.01-01.45.24:897][725]LogSlate: Window 'TurretGun' being destroyed
+[2021.10.01-01.45.24:943][725]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.45.24:944][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.45.25:004][725]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.10.01-01.45.25:004][725]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.10.01-01.45.25:004][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.01-01.45.43:997][ 53]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
