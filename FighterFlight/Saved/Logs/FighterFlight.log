@@ -3031,3 +3031,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.04-12.59.42:017][601]LogShaderCompilers: Display: Tracking 3873 distinct input hashes that result in 1395 distinct outputs (36.02%)
 [2021.10.04-12.59.42:017][601]LogShaderCompilers: Display: RAM used: 19.27 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.35%
 [2021.10.04-12.59.42:017][601]LogShaderCompilers: Display: ================================================
+[2021.10.04-12.59.45:634][638]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3770
+[2021.10.04-12.59.45:634][638]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.10.04-12.59.46:571][642]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3760
+[2021.10.04-12.59.46:571][642]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
