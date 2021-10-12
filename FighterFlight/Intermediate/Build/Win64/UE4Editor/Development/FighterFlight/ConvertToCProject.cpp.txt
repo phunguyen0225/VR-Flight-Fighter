@@ -1,0 +1,2 @@
+C:\Users\judgementine\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Intermediate\Build\Win64\UE4Editor\Development\FighterFlight\Definitions.FighterFlight.h
+C:\Users\judgementine\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Source\FighterFlight\ConvertToCProject.h
