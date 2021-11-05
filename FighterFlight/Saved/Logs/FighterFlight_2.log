@@ -1175,3 +1175,24 @@ Continue: Skip saving this asset only.
 [2021.11.05-01.17.57:181][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
 [2021.11.05-01.18.05:328][812]BlueprintLog: New page: Compile VRPawn
 [2021.11.05-01.18.05:414][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.05-01.21.59:627][395]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.05-01.26.30:021][971]LogEditorTransaction: Undo Resize Node
+[2021.11.05-01.26.31:188][ 22]LogEditorTransaction: Undo Move Nodes
+[2021.11.05-01.27.31:939][149]BlueprintLog: New page: Compile VRPawn
+[2021.11.05-01.27.32:032][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.05-01.27.45:178][ 24]BlueprintLog: New page: Compile VRPawn
+[2021.11.05-01.27.45:266][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.05-01.28.00:320][149]BlueprintLog: New page: Compile VRPawn
+[2021.11.05-01.28.00:425][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.11.05-01.28.01:690][229]LogSlate: Window 'VRPawn' being destroyed
+[2021.11.05-01.28.01:701][229]LogSlate: Window 'VRPawn' being destroyed
+[2021.11.05-01.28.01:707][229]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.05-01.28.01:707][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.05-01.28.03:583][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2021.11.05-01.28.04:249][432]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawnAC73FA004A94C37B587CCA8E2C98EEBB.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2021.11.05-01.28.04:291][432]AssetCheck: New page: Asset Save: VRPawn
+[2021.11.05-01.28.04:291][432]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2021.11.05-01.28.04:452][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2021.11.05-01.28.05:837][441]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn5D6DAE9D4B044E7C7BA48992A3FF4101.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2021.11.05-01.28.05:866][441]AssetCheck: New page: Asset Save: VRPawn
+[2021.11.05-01.28.05:866][441]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
