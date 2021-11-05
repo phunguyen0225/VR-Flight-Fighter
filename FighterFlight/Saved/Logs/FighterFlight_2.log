@@ -1,4 +1,4 @@
-﻿Log file open, 11/04/21 20:03:25
+﻿Log file open, 11/04/21 21:10:09
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,55 +10,42 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: FighterFlight
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 3.001920
+LogStats: Stats thread started at 0.281371
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin OodleNetwork
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin GameplayCameras
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin TextureFormatOodle
-LogPluginManager: Mounting plugin RiderSourceCodeAccess
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
@@ -68,12 +55,33 @@ LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin LuminPlatformFeatures
 LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -81,16 +89,8 @@ LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin MotoSynth
-LogPluginManager: Mounting plugin OpenImageDenoise
-LogPluginManager: Mounting plugin PlanarCut
-LogPluginManager: Mounting plugin PlatformCrypto
-LogPluginManager: Mounting plugin PythonScriptPlugin
-LogPluginManager: Mounting plugin ProxyLODPlugin
-LogPluginManager: Mounting plugin SkeletalReduction
-LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
@@ -111,8 +111,8 @@ LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CableComponent
-LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
@@ -121,22 +121,22 @@ LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
 LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
 LogPluginManager: Mounting plugin OpenXREyeTracker
 LogPluginManager: Mounting plugin OpenXRHandTracking
 LogPluginManager: Mounting plugin PhysXVehicles
-LogPluginManager: Mounting plugin OpenXR
 LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin ResonanceAudio
 LogPluginManager: Mounting plugin RuntimePhysXCooking
-LogPluginManager: Mounting plugin ProceduralMeshComponent
-LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
@@ -168,11 +168,12 @@ LogInit:  - BufferSize = 65536
 LogSteamShared: Display: Loading Steam SDK 1.51
 LogSteamShared: Steam SDK Loaded!
 LogOnline: OSS: Creating online subsystem instance for: Steam
-LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
-LogOnline: OSS: Unable to create OnlineSubsystem module Steam
-LogOnline: OSS: Creating online subsystem instance for: NULL
+LogOnline: STEAM: Steam User is subscribed 1
+LogOnline: STEAM: [AppId: 480] Client API initialized 1
+LogOnline: STEAM: Initializing SteamNetworking Layer
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Steam]
 LogInit: Build: ++UE4+Release-4.27-CL-17735300
 LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
 LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
@@ -182,7 +183,7 @@ LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.27
-LogInit: Command Line: 
+LogInit: Command Line:  -game
 LogInit: Base Directory: G:/UE_4.27/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
@@ -235,964 +236,713 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2021.11.05-01.03.25:974][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2021.11.05-01.03.25:974][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2021.11.05-01.03.25:974][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
-[2021.11.05-01.03.25:974][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
-[2021.11.05-01.03.25:975][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[vr.MobileMultiView:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
-[2021.11.05-01.03.25:976][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[r.Mobile.SupportGPUScene:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
-[2021.11.05-01.03.25:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2021.11.05-01.03.25:977][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
-[2021.11.05-01.03.25:978][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
-[2021.11.05-01.03.25:978][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
-[2021.11.05-01.03.26:116][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.11.05-01.03.26:116][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.11.05-01.03.26:117][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.11.05-01.03.26:118][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.11.05-01.03.26:119][  0]LogInit: Selected Device Profile: [Windows]
-[2021.11.05-01.03.26:119][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2021.11.05-01.03.26:119][  0]LogHAL: Display: Platform has ~ 32 GB [34295566336 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2021.11.05-01.03.26:119][  0]LogInit: Going up to parent DeviceProfile []
-[2021.11.05-01.03.26:119][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2021.11.05-01.03.26:119][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2021.11.05-01.03.26:120][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:120][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
-[2021.11.05-01.03.26:121][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:122][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
-[2021.11.05-01.03.26:122][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
-[2021.11.05-01.03.26:122][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2021.11.05-01.03.26:123][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2021.11.05-01.03.26:123][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2021.11.05-01.03.26:123][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
-[2021.11.05-01.03.26:123][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
-[2021.11.05-01.03.26:123][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Editor.ini]
-[2021.11.05-01.03.26:123][  0]LogInit: Computer: NOBILIS
-[2021.11.05-01.03.26:123][  0]LogInit: User: judgementine
-[2021.11.05-01.03.26:123][  0]LogInit: CPU Page size=4096, Cores=4
-[2021.11.05-01.03.26:123][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2021.11.05-01.03.26:123][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2021.11.05-01.03.26:123][  0]LogMemory: Platform Memory Stats for Windows
-[2021.11.05-01.03.26:123][  0]LogMemory: Process Physical Memory: 141.50 MB used, 141.50 MB peak
-[2021.11.05-01.03.26:123][  0]LogMemory: Process Virtual Memory: 114.19 MB used, 114.19 MB peak
-[2021.11.05-01.03.26:123][  0]LogMemory: Physical Memory: 10874.32 MB used,  21832.48 MB free, 32706.80 MB total
-[2021.11.05-01.03.26:123][  0]LogMemory: Virtual Memory: 134186560.00 MB used,  31170.99 MB free, 134217728.00 MB total
-[2021.11.05-01.03.26:131][  0]LogWindows: WindowsPlatformFeatures enabled
-[2021.11.05-01.03.26:220][  0]LogInit: Physics initialised using underlying interface: PhysX
-[2021.11.05-01.03.26:221][  0]LogInit: Using OS detected language (en-US).
-[2021.11.05-01.03.26:221][  0]LogInit: Using OS detected locale (en-US).
-[2021.11.05-01.03.26:223][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2021.11.05-01.03.26:462][  0]LogInit: Setting process to per monitor DPI aware
-[2021.11.05-01.03.26:504][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
-[2021.11.05-01.03.26:547][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2021.11.05-01.03.26:547][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2021.11.05-01.03.26:759][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
-[2021.11.05-01.03.26:787][  0]LogHMD: Optional extension XR_KHR_opengl_enable is not available
-[2021.11.05-01.03.26:787][  0]LogHMD: Optional extension XR_KHR_vulkan_enable is not available
-[2021.11.05-01.03.26:787][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
-[2021.11.05-01.03.26:806][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
-[2021.11.05-01.03.26:806][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
-[2021.11.05-01.03.26:806][  0]LogD3D11RHI: D3D11 adapters:
-[2021.11.05-01.03.26:943][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2021.11.05-01.03.26:943][  0]LogD3D11RHI:       8079/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:4, VendorId:0x10de
-[2021.11.05-01.03.26:946][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2021.11.05-01.03.26:947][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:       8079/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI: Chosen D3D11 Adapter:
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     VendorId    : 10de
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     DeviceId    : 1b80
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     SubSysId    : 33631462
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     Revision    : 00a1
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     SharedSystemMemory : 17147783168 bytes
-[2021.11.05-01.03.27:062][  0]LogD3D11RHI:     AdapterLuid : 0 51032
-[2021.11.05-01.03.27:073][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2021.11.05-01.03.27:073][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
-[2021.11.05-01.03.27:073][  0]LogWindows: EnumDisplayDevices:
-[2021.11.05-01.03.27:073][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
-[2021.11.05-01.03.27:074][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2021.11.05-01.03.27:074][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2021.11.05-01.03.27:075][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
-[2021.11.05-01.03.27:076][  0]LogWindows:    4. 'Virtual Display Adapter' (P:0 D:1)
-[2021.11.05-01.03.27:076][  0]LogWindows:    5. 'Virtual Display Adapter' (P:0 D:1)
-[2021.11.05-01.03.27:077][  0]LogWindows:    6. 'Virtual Display Adapter' (P:0 D:1)
-[2021.11.05-01.03.27:077][  0]LogWindows:    7. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:078][  0]LogWindows:    8. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:078][  0]LogWindows:    9. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:079][  0]LogWindows:    10. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:079][  0]LogWindows:    11. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:079][  0]LogWindows:    12. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:080][  0]LogWindows:    13. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:080][  0]LogWindows:    14. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:080][  0]LogWindows:    15. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:081][  0]LogWindows:    16. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:081][  0]LogWindows:    17. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:082][  0]LogWindows:    18. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:083][  0]LogWindows:    19. 'Virtual Display Adapter' (P:0 D:0)
-[2021.11.05-01.03.27:083][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:      Driver Date: 7-12-2021
-[2021.11.05-01.03.27:083][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI: Creating D3DDevice using adapter:
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     VendorId    : 10de
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     DeviceId    : 1b80
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     SubSysId    : 33631462
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     Revision    : 00a1
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     SharedSystemMemory : 17147783168 bytes
-[2021.11.05-01.03.27:083][  0]LogD3D11RHI:     AdapterLuid : 0 51032
-[2021.11.05-01.03.27:190][  0]LogD3D11RHI: RHI has support for 64 bit atomics
-[2021.11.05-01.03.27:190][  0]LogD3D11RHI: Async texture creation enabled
-[2021.11.05-01.03.27:190][  0]LogD3D11RHI: Array index from any shader is supported
-[2021.11.05-01.03.27:230][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2021.11.05-01.03.27:309][  0]LogRHI: GeForceNow SDK initialized: 1
-[2021.11.05-01.03.27:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
-[2021.11.05-01.03.27:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
-[2021.11.05-01.03.27:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
-[2021.11.05-01.03.27:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
-[2021.11.05-01.03.27:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
-[2021.11.05-01.03.27:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
-[2021.11.05-01.03.27:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
-[2021.11.05-01.03.27:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
-[2021.11.05-01.03.27:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
-[2021.11.05-01.03.27:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
-[2021.11.05-01.03.27:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
-[2021.11.05-01.03.27:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
-[2021.11.05-01.03.27:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
-[2021.11.05-01.03.27:977][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
-[2021.11.05-01.03.27:979][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
-[2021.11.05-01.03.27:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
-[2021.11.05-01.03.27:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
-[2021.11.05-01.03.27:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
-[2021.11.05-01.03.27:996][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
-[2021.11.05-01.03.28:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
-[2021.11.05-01.03.28:009][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
-[2021.11.05-01.03.28:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
-[2021.11.05-01.03.28:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
-[2021.11.05-01.03.28:016][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2021.11.05-01.03.28:023][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2021.11.05-01.03.28:047][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
-[2021.11.05-01.03.28:069][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
-[2021.11.05-01.03.28:070][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Intermediate/Shaders/WorkingDirectory/28476/).
-[2021.11.05-01.03.28:070][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/judgementine/AppData/Local/Temp/UnrealShaderWorkingDir/84FED9FF49476E6B56C49BA05CF300BA/'.
-[2021.11.05-01.03.28:070][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2021.11.05-01.03.28:070][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2021.11.05-01.03.28:070][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2021.11.05-01.03.29:243][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2021.11.05-01.03.29:320][  0]LogDerivedDataCache: Loaded boot cache 0.08s 96MB C:/Users/judgementine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
-[2021.11.05-01.03.29:320][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/judgementine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
-[2021.11.05-01.03.29:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2021.11.05-01.03.29:320][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2021.11.05-01.03.29:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.11.05-01.03.29:320][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2021.11.05-01.03.29:340][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2021.11.05-01.03.29:341][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2021.11.05-01.03.29:341][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2021.11.05-01.03.29:351][  0]LogDerivedDataCache: Speed tests for C:/Users/judgementine/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
-[2021.11.05-01.03.29:351][  0]LogDerivedDataCache: Display: Performance to C:/Users/judgementine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=884.91MBs, RandomWriteSpeed=107.95MBs. Assigned SpeedClass 'Local'
-[2021.11.05-01.03.29:352][  0]LogDerivedDataCache: Using Local data cache path C:/Users/judgementine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2021.11.05-01.03.29:352][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2021.11.05-01.03.29:352][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2021.11.05-01.03.29:441][  0]LogSlate: Using FreeType 2.10.0
-[2021.11.05-01.03.29:442][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2021.11.05-01.03.29:474][  0]LogAssetRegistry: FAssetRegistry took 0.0049 seconds to start up
-[2021.11.05-01.03.29:825][  0]LogInit: Selected Device Profile: [Windows]
-[2021.11.05-01.03.29:825][  0]LogInit: Active device profile: [0000014F82AFF300][0000014FF8243080 49] Windows
-[2021.11.05-01.03.29:825][  0]LogInit: Profiles: [0000014F82AFF300][0000014FF8243080 49] Windows, [0000014F82ABCF00][0000014FF8247200 49] WindowsNoEditor, [0000014F82AFCF00][0000014FF824B380 49] WindowsServer, [0000014F82ABEB00][0000014FF824F500 49] WindowsClient, [0000014F82AFEA00][0000014FF8253680 49] IOS, [0000014F82ABD800][0000014F83133800 49] iPadAir, [0000014F82AFD700][0000014F83137980 49] iPadAir2, [0000014F82A67A00][0000014F8313E0C0 49] IPadPro, [0000014F82A67B00][0000014F8313A100 49] iPadAir3, [0000014F82AFE400][0000014F83142280 49] iPadAir4, [0000014F82A65400][0000014F83146400 49] iPadMini2, [0000014F82AFDC00][0000014F8314A580 49] iPadMini3, [0000014F82A66500][0000014F8314E700 49] iPadMini4, [0000014F82AFC800][0000014F83152880 49] iPadMini5, [0000014F82AB3300][0000014F8315AB40 49] iPhone6, [0000014F82AB3400][0000014F83156B80 49] iPodTouch6, [0000014F82A64400][0000014FF823EE00 49] iPhone7, [0000014F82A64300][0000014F8315EE40 49] iPodTouch7, [0000014F82AB1300][0000014F83162F80 49] iPhone5S, [0000014F82A67C00][0000014F831670C0 49] iPhone6Plus, [0000014F82AB2600][0000014F83173240 49] iPhone6S, [0000014F82A65100][0000014F831F93C0 49] iPhone6SPlus, [0000014F82AB1B00][0000014F83201540 49] iPhone7Plus, [0000014F82A65D00][0000014F832196C0 49] iPhoneSE, [0000014F82AB0E00][0000014F83285840 49] iPhone8, [0000014F82A64C00][0000014F832CF9C0 49] iPhone8Plus, [0000014F82AB2D00][0000014F832EFB40 49] iPhoneX, [0000014F82A64A00][0000014F83328140 49] iPhoneXS, [0000014F82AB3A00][0000014F833A62C0 49] iPhoneXSMax, [0000014F82A65800][0000014F834C2440 49] iPhoneXR, [0000014F82AB0D00][0000014F834CA5C0 49] iPhone11, [0000014F82A67D00][0000014FF8AAC740 49] iPhone11Pro, [0000014F82AB2A00][0000014FF8AB08C0 49] iPhone11ProMax, [0000014F82A65200][0000014FF8AB4A40 49] iPhoneSE2, [0000014F82AB2400][0000014FF8AB8BC0 49] iPhone12Mini, [0000014F82A64F00][0000014FF81FED40 49] iPhone12, [0000014F82AB3C00][0000014FF8202EC0 49] iPhone12Pro, [0000014F82A66600][0000014F8316B000 49] iPhone12ProMax, [0000014F82AB0100][0000014FF8207140 49] iPadPro105, [0000014F82A66B00][0000014FF820B280 49] iPadPro129, [0000014F82AB2000][0000014FF820F3C0 49] iPadPro97, [0000014F82A65000][0000014FF8217540 49] iPadPro2_129, [0000014F82AB2200][0000014FF821B6C0 49] iPad5, [0000014F82A65900][0000014FF821F840 49] iPad6, [0000014F82AB2700][0000014FF82239C0 49] iPad7, [0000014F82A66000][0000014FF8227B40 49] iPad8, [0000014F82AB3F00][0000014FF822A140 49] iPadPro11, [0000014F82A65B00][0000014FF822E2C0 49] iPadPro2_11, [0000014F82AB1600][0000014FF8232440 49] iPadPro3_129, [0000014F82A65500][0000014FF82365C0 49] iPadPro4_129, [0000014F82AB1D00][0000014F80D02740 49] AppleTV, [0000014F82A65600][0000014F80D068C0 49] AppleTV4K, [0000014F82AB1400][0000014F80D0AA40 49] TVOS, [0000014F82A66700][0000014F80D0EBC0 49] Mac, [0000014F82AB3700][0000014F80D12D40 49] MacClient, [0000014F82A66800][0000014F80D16EC0 49] MacNoEditor, [0000014F82AB0F00][0000014F80D1B040 49] MacServer, [0000014F82A66A00][0000014FF8213180 49] Linux, [0000014F82AB3200][0000014F80D1F2C0 49] LinuxAArch64, [0000014F82A67200][0000014F80D23400 49] LinuxNoEditor, [0000014F82ABE500][0000014F80D27540 49] LinuxAArch64NoEditor, [0000014F82B50500][0000014F80D2F6C0 49] LinuxClient, [0000014F82ABCA00][0000014F80D33840 49] LinuxAArch64Client, [0000014F82B51200][0000014F80D379C0 49] LinuxServer, [0000014F82ABD700][0000014F80D3BB40 49] LinuxAArch64Server, [0000014F82B51800][0000014F80D3E140 49] Android, [0000014F82ABC100][0000014F80D422C0 49] Android_Low, [0000014F82B51400][0000014F80D46440 49] Android_Mid, [0000014F82ABF700][0000014F80D4A5C0 49] Android_High, [0000014F82B50A00][0000014F80D4E740 49] Android_Default, [0000014F82ABDC00][0000014F80D528C0 49] Android_Adreno4xx, [0000014F82B50700][0000014F80D56A40 49] Android_Adreno5xx_Low, [0000014F82ABC800][0000014F80D5ABC0 49] Android_Adreno5xx, [0000014F82B50800][0000014FF8BD2D40 49] Android_Adreno6xx, [0000014F82ABF200][0000014FF8BD6EC0 49] Android_Adreno6xx_Vulkan, [0000014F82B51F00][0000014FF8BDB040 49] Android_Mali_T6xx, [0000014F82ABF300][0000014FF8BDF1C0 49] Android_Mali_T7xx, [0000014F82B51600][0000014FF8BE3340 49] Android_Mali_T8xx, [0000014F82ABC500][0000014F80D2B480 49] Android_Mali_G71, [0000014F82B51900][0000014FF8BE75C0 49] Android_Mali_G72, [0000014F82A64800][0000014FF8BEB700 49] Android_Mali_G72_Vulkan, [0000014F82AB2800][0000014FF8BF3880 49] Android_Mali_G76, [0000014F82A67900][0000014FF8BF7A00 49] Android_Mali_G76_Vulkan, [0000014F82AB3D00][0000014FF8BFBB80 49] Android_Mali_G77, [0000014F82A66100][0000014FF8BFE180 49] Android_Mali_G77_Vulkan, [0000014F82AB2E00][0000014FF8C02300 49] Android_Mali_G78, [0000014F82A67400][0000014FF8C06480 49] Android_Mali_G78_Vulkan, [0000014F82AB2C00][0000014FF8C0A600 49] Android_Mali_G710, [0000014F82A67000][0000014FF8C0E780 49] Android_Mali_G710_Vulkan, [0000014F82B50200][0000014FF8C12900 49] Android_Vulkan_SM5, [0000014F82A66C00][0000014FF8C16A80 49] Android_PowerVR_G6xxx, [0000014F82B50100][0000014FF8C1AC00 49] Android_PowerVR_GT7xxx, [0000014F82A64200][0000014FF8C1ED80 49] Android_PowerVR_GE8xxx, [0000014F82B52300][0000014FF8C22F00 49] Android_PowerVR_GM9xxx, [0000014F82A65300][0000014FF8C27080 49] Android_PowerVR_GM9xxx_Vulkan, [0000014F82B52100][0000014FF8C2B200 49] Android_TegraK1, [0000014F82A66E00][0000014FF8C2F380 49] Android_Unknown_Vulkan, [0000014F82B50C00][0000014FF8C33500 49] Lumin, [0000014F82A67300][0000014FF8BEF640 49] Lumin_Desktop, [0000014F82B50900][0000014FF8C37780 49] HoloLens, 
-[2021.11.05-01.03.29:957][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Intermediate/CachedAssetRegistry.bin.tmp
-[2021.11.05-01.03.29:957][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2021.11.05-01.03.29:957][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2021.11.05-01.03.29:957][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2021.11.05-01.03.29:957][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2021.11.05-01.03.29:957][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2021.11.05-01.03.29:985][  0]LogNetVersion: FighterFlight 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2687385895)
-[2021.11.05-01.03.30:499][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
-[2021.11.05-01.03.30:585][  0]LogUObjectArray: 17019 objects as part of root set at end of initial load.
-[2021.11.05-01.03.30:585][  0]LogUObjectAllocator: 4268864 out of 0 bytes used by permanent object pool.
-[2021.11.05-01.03.30:585][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2021.11.05-01.03.30:919][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3ABEA0F44ADC4FE37BF78D99FBA55AE5 | Instance: 3713F7154857E9FDD35B85A36ACD327D (NOBILIS-28476).
-[2021.11.05-01.03.31:008][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
-[2021.11.05-01.03.31:008][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
-[2021.11.05-01.03.31:051][  0]LogPython: Using Python 3.7.7
-[2021.11.05-01.03.31:641][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2021.11.05-01.03.31:649][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2021.11.05-01.03.31:883][  0]SourceControl: Source control is disabled
-[2021.11.05-01.03.31:883][  0]SourceControl: Source control is disabled
-[2021.11.05-01.03.31:898][  0]SourceControl: Source control is disabled
-[2021.11.05-01.03.31:900][  0]SourceControl: Source control is disabled
-[2021.11.05-01.03.31:901][  0]SourceControl: Source control is disabled
-[2021.11.05-01.03.31:907][  0]LogUProjectInfo: Found projects:
-[2021.11.05-01.03.32:080][  0]LogOpenImageDenoise: OIDN starting up
-[2021.11.05-01.03.32:095][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2021.11.05-01.03.32:120][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.11.05-01.03.32:120][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
-[2021.11.05-01.03.32:269][  0]LogCollectionManager: Loaded 0 collections in 0.002108 seconds
-[2021.11.05-01.03.32:329][  0]LogFileCache: Scanning file cache for directory 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Collections/' took 0.00s
-[2021.11.05-01.03.32:329][  0]LogFileCache: Scanning file cache for directory 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/Developers/judgementine/Collections/' took 0.00s
-[2021.11.05-01.03.32:329][  0]LogFileCache: Scanning file cache for directory 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/Collections/' took 0.00s
-[2021.11.05-01.03.32:329][  0]LogClass: Display: BoolProperty FBPSteamGroupOfficer::bIsOwner is not initialized properly. Module:AdvancedSteamSessions File:Classes/SteamRequestGroupOfficersCallbackProxy.h
-[2021.11.05-01.03.32:329][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numOnline is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
-[2021.11.05-01.03.32:329][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numInGame is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
-[2021.11.05-01.03.32:329][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numChatting is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
-[2021.11.05-01.03.32:330][  0]LogClass: Display: 4 Uninitialized script struct members found including 0 object properties
-[2021.11.05-01.03.32:331][  0]LogEngine: Initializing Engine...
-[2021.11.05-01.03.32:635][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2021.11.05-01.03.32:771][  0]LogInit: Initializing FReadOnlyCVARCache
-[2021.11.05-01.03.32:782][  0]LogAIModule: Creating AISystem for world Untitled
-[2021.11.05-01.03.32:799][  0]LogAudio: Display: Initializing Audio Device Manager...
-[2021.11.05-01.03.32:804][  0]LogAudio: Display: Loading Default Audio Settings Objects...
-[2021.11.05-01.03.32:805][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
-[2021.11.05-01.03.32:805][  0]LogAudio: Display: Audio Device Manager Initialized
-[2021.11.05-01.03.32:805][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
-[2021.11.05-01.03.32:805][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
-[2021.11.05-01.03.32:805][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
-[2021.11.05-01.03.32:805][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
-[2021.11.05-01.03.32:805][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
-[2021.11.05-01.03.32:805][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
-[2021.11.05-01.03.32:805][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
-[2021.11.05-01.03.32:805][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
-[2021.11.05-01.03.32:805][  0]LogAudio: Display: AudioDevice MaxSources: 32
-[2021.11.05-01.03.32:806][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
-[2021.11.05-01.03.32:806][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
-[2021.11.05-01.03.32:806][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
-[2021.11.05-01.03.32:806][  0]LogAudioMixer: Display: Initializing audio mixer.
-[2021.11.05-01.03.32:830][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.11.05-01.03.32:830][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.11.05-01.03.32:859][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB2.0 Audio)
-[2021.11.05-01.03.32:862][  0]LogAudioMixer: Display: Initializing Sound Submixes...
-[2021.11.05-01.03.32:864][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
-[2021.11.05-01.03.32:864][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
-[2021.11.05-01.03.32:864][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
-[2021.11.05-01.03.32:865][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
-[2021.11.05-01.03.32:866][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
-[2021.11.05-01.03.32:867][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
-[2021.11.05-01.03.32:867][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
-[2021.11.05-01.03.32:867][  0]LogInit: FAudioDevice initialized.
-[2021.11.05-01.03.32:867][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
-[2021.11.05-01.03.32:867][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2021.11.05-01.03.32:949][  0]LogDerivedDataCache: Saved boot cache 0.08s 96MB C:/Users/judgementine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
-[2021.11.05-01.03.32:950][  0]LogInit: Texture streaming: Enabled
-[2021.11.05-01.03.32:957][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
-[2021.11.05-01.03.32:960][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2021.11.05-01.03.32:960][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
-[2021.11.05-01.03.32:969][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
-[2021.11.05-01.03.32:997][  0]LogInit: Transaction tracking system initialized
-[2021.11.05-01.03.33:007][  0]BlueprintLog: New page: Editor Load
-[2021.11.05-01.03.33:045][  0]LocalizationService: Localization service is disabled
-[2021.11.05-01.03.33:058][  0]TimingProfiler: Initialize
-[2021.11.05-01.03.33:058][  0]TimingProfiler: OnSessionChanged
-[2021.11.05-01.03.33:058][  0]LoadingProfiler: Initialize
-[2021.11.05-01.03.33:059][  0]LoadingProfiler: OnSessionChanged
-[2021.11.05-01.03.33:059][  0]NetworkingProfiler: Initialize
-[2021.11.05-01.03.33:059][  0]NetworkingProfiler: OnSessionChanged
-[2021.11.05-01.03.33:059][  0]MemoryProfiler: Initialize
-[2021.11.05-01.03.33:059][  0]MemoryProfiler: OnSessionChanged
-[2021.11.05-01.03.33:239][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
-[2021.11.05-01.03.33:239][  0]LogCook: Display: Mobile HDR setting 0
-[2021.11.05-01.03.33:431][  0]LogFileCache: Scanning file cache for directory 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/' took 0.01s
-[2021.11.05-01.03.33:431][  0]LogOutputDevice: Warning: 
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.11.05-02.10.11:177][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.11.05-02.10.11:178][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[vr.MobileMultiView:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.11.05-02.10.11:179][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[r.Mobile.SupportGPUScene:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
+[2021.11.05-02.10.11:180][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.05-02.10.11:180][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.05-02.10.11:181][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
+[2021.11.05-02.10.11:181][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
+[2021.11.05-02.10.11:301][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:301][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.05-02.10.11:301][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.05-02.10.11:301][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:301][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.05-02.10.11:301][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:301][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.05-02.10.11:301][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.05-02.10.11:301][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.05-02.10.11:302][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.05-02.10.11:303][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.05-02.10.11:304][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.05-02.10.11:304][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.05-02.10.11:304][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.05-02.10.11:305][  0]LogHAL: Display: Platform has ~ 32 GB [34295566336 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.05-02.10.11:305][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.05-02.10.11:305][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:305][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.05-02.10.11:305][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.05-02.10.11:305][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:305][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.05-02.10.11:305][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:305][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.05-02.10.11:305][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.05-02.10.11:305][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.05-02.10.11:305][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.05-02.10.11:306][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.05-02.10.11:307][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Scalability.ini]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.05-02.10.11:308][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Engine.ini]
+[2021.11.05-02.10.11:308][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Config/Windows/Editor.ini]
+[2021.11.05-02.10.11:308][  0]LogInit: Computer: NOBILIS
+[2021.11.05-02.10.11:309][  0]LogInit: User: judgementine
+[2021.11.05-02.10.11:309][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.05-02.10.11:309][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.05-02.10.11:309][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.11.05-02.10.11:309][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.05-02.10.11:309][  0]LogMemory: Process Physical Memory: 166.21 MB used, 166.22 MB peak
+[2021.11.05-02.10.11:309][  0]LogMemory: Process Virtual Memory: 121.03 MB used, 121.03 MB peak
+[2021.11.05-02.10.11:309][  0]LogMemory: Physical Memory: 13840.69 MB used,  18866.11 MB free, 32706.80 MB total
+[2021.11.05-02.10.11:309][  0]LogMemory: Virtual Memory: 134189008.00 MB used,  28716.45 MB free, 134217728.00 MB total
+[2021.11.05-02.10.11:328][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.05-02.10.11:769][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.05-02.10.11:769][  0]LogInit: Using OS detected language (en-US).
+[2021.11.05-02.10.11:769][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.05-02.10.11:774][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.05-02.10.12:291][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.05-02.10.12:439][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.05-02.10.12:439][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.05-02.10.12:528][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.05-02.10.12:583][  0]LogHMD: Optional extension XR_KHR_opengl_enable is not available
+[2021.11.05-02.10.12:583][  0]LogHMD: Optional extension XR_KHR_vulkan_enable is not available
+[2021.11.05-02.10.12:583][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2021.11.05-02.10.12:611][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.05-02.10.12:611][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.05-02.10.12:611][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.05-02.10.12:781][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.11.05-02.10.12:781][  0]LogD3D11RHI:       8079/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:4, VendorId:0x10de
+[2021.11.05-02.10.12:788][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.05-02.10.12:788][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:       8079/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     SubSysId    : 33631462
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     SharedSystemMemory : 17147783168 bytes
+[2021.11.05-02.10.12:942][  0]LogD3D11RHI:     AdapterLuid : 0 51032
+[2021.11.05-02.10.12:951][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.05-02.10.12:951][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.05-02.10.12:951][  0]LogWindows: EnumDisplayDevices:
+[2021.11.05-02.10.12:951][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.11.05-02.10.12:952][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.11.05-02.10.12:952][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.11.05-02.10.12:953][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.11.05-02.10.12:953][  0]LogWindows:    4. 'Virtual Display Adapter' (P:0 D:1)
+[2021.11.05-02.10.12:954][  0]LogWindows:    5. 'Virtual Display Adapter' (P:0 D:1)
+[2021.11.05-02.10.12:954][  0]LogWindows:    6. 'Virtual Display Adapter' (P:0 D:1)
+[2021.11.05-02.10.12:955][  0]LogWindows:    7. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:955][  0]LogWindows:    8. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:955][  0]LogWindows:    9. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:956][  0]LogWindows:    10. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:956][  0]LogWindows:    11. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:957][  0]LogWindows:    12. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:957][  0]LogWindows:    13. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:958][  0]LogWindows:    14. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:958][  0]LogWindows:    15. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:959][  0]LogWindows:    16. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:959][  0]LogWindows:    17. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:959][  0]LogWindows:    18. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:960][  0]LogWindows:    19. 'Virtual Display Adapter' (P:0 D:0)
+[2021.11.05-02.10.12:960][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.11.05-02.10.12:960][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1080
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     DeviceId    : 1b80
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     SubSysId    : 33631462
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     DedicatedVideoMemory : 8471445504 bytes
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     SharedSystemMemory : 17147783168 bytes
+[2021.11.05-02.10.12:960][  0]LogD3D11RHI:     AdapterLuid : 0 51032
+[2021.11.05-02.10.13:099][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.05-02.10.13:099][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.05-02.10.13:099][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.05-02.10.13:144][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.05-02.10.13:235][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.05-02.10.13:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.05-02.10.13:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.05-02.10.13:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.05-02.10.13:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.05-02.10.13:794][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.05-02.10.13:808][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.05-02.10.13:850][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.05-02.10.13:899][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.05-02.10.13:899][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Intermediate/Shaders/WorkingDirectory/18508/).
+[2021.11.05-02.10.13:899][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/judgementine/AppData/Local/Temp/UnrealShaderWorkingDir/204D65BC4605040170EB98B355FA5E23/'.
+[2021.11.05-02.10.13:899][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.05-02.10.13:899][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.05-02.10.13:899][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.05-02.10.14:654][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.05-02.10.14:710][  0]LogDerivedDataCache: Loaded boot cache 0.06s 96MB C:/Users/judgementine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.05-02.10.14:710][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/judgementine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.05-02.10.14:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.05-02.10.14:710][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.05-02.10.14:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.05-02.10.14:710][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.05-02.10.14:726][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.05-02.10.14:726][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.05-02.10.14:726][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.05-02.10.14:742][  0]LogDerivedDataCache: Speed tests for C:/Users/judgementine/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.11.05-02.10.14:742][  0]LogDerivedDataCache: Display: Performance to C:/Users/judgementine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=1035.17MBs, RandomWriteSpeed=66.72MBs. Assigned SpeedClass 'Local'
+[2021.11.05-02.10.14:742][  0]LogDerivedDataCache: Using Local data cache path C:/Users/judgementine/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.05-02.10.14:742][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.05-02.10.14:742][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.05-02.10.14:780][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.05-02.10.14:780][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.05-02.10.14:936][  0]LogInit: Using OS detected language (en-US).
+[2021.11.05-02.10.14:937][  0]LogInit: Using OS detected locale (en-US).
+[2021.11.05-02.10.14:937][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2021.11.05-02.10.14:937][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2021.11.05-02.10.14:937][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.05-02.10.14:937][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2021.11.05-02.10.14:942][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.11.05-02.10.14:942][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.11.05-02.10.15:174][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.058635 seconds
+[2021.11.05-02.10.15:255][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.05-02.10.15:255][  0]LogInit: Active device profile: [00000178992EA500][000001788EC71400 49] Windows
+[2021.11.05-02.10.15:255][  0]LogInit: Profiles: [00000178992EA500][000001788EC71400 49] Windows, [000001789928DD00][000001788EC79580 49] WindowsNoEditor, [00000178992EAA00][000001788EC7D700 49] WindowsServer, [000001789928D700][000001788EAEB880 49] WindowsClient, [00000178992E9600][000001788EC759C0 49] IOS, [000001789928D300][000001788EAEFB00 49] iPadAir, [00000178992EA600][000001788EAF20C0 49] iPadAir2, [0000017899236800][000001788EAFE380 49] IPadPro, [0000017899236900][000001788EAFA3C0 49] iPadAir3, [00000178992E9B00][000001788EB02540 49] iPadAir4, [0000017899236D00][000001788EB066C0 49] iPadMini2, [00000178992EAC00][000001788EB0A840 49] iPadMini3, [0000017899237100][000001788EB0E9C0 49] iPadMini4, [00000178992EA100][000001788EB12B40 49] iPadMini5, [000001789927E100][000001788EB1AE00 49] iPhone6, [000001789927E200][000001788EB16E40 49] iPodTouch6, [0000017899235700][000001788EB23100 49] iPhone7, [0000017899235600][000001788EB1F140 49] iPodTouch7, [000001789927C700][000001788EB272C0 49] iPhone5S, [0000017899235200][000001788EB2B440 49] iPhone6Plus, [000001789927E800][000001788EB2F5C0 49] iPhone6S, [0000017899234E00][000001788EB33740 49] iPhone6SPlus, [000001789927E700][000001788ECF98C0 49] iPhone7Plus, [0000017899234100][000001788ECFDA40 49] iPhoneSE, [000001789927D600][000001788EAF7B80 49] iPhone8, [0000017899235D00][000001788ED00140 49] iPhone8Plus, [000001789927FA00][000001788ED04280 49] iPhoneX, [0000017899235A00][000001788ED083C0 49] iPhoneXS, [000001789927CB00][000001788ED10540 49] iPhoneXSMax, [0000017899237E00][000001788ED146C0 49] iPhoneXR, [000001789927F400][000001788ED18840 49] iPhone11, [0000017899234500][000001788ED1C9C0 49] iPhone11Pro, [000001789927CC00][000001788ED20B40 49] iPhone11ProMax, [0000017899236600][000001788ED24CC0 49] iPhoneSE2, [000001789927ED00][000001788ED28E40 49] iPhone12Mini, [0000017899234C00][000001788ED2CFC0 49] iPhone12, [000001789927E600][000001788ED31140 49] iPhone12Pro, [0000017899236300][000001788ED352C0 49] iPhone12ProMax, [000001789927E400][000001788ED39440 49] iPadPro105, [0000017899236F00][000001788ED3D5C0 49] iPadPro129, [000001789927F600][000001788ED41740 49] iPadPro97, [0000017899236C00][000001788ED458C0 49] iPadPro2_129, [000001789927EC00][000001789266FA40 49] iPad5, [0000017899234300][0000017892673BC0 49] iPad6, [000001789927DF00][000001788ED0C180 49] iPad7, [000001789928DC00][00000178926762C0 49] iPad8, [000001789931D100][000001789267A400 49] iPadPro11, [000001789928E000][000001789267E540 49] iPadPro2_11, [000001789931C500][00000178926866C0 49] iPadPro3_129, [000001789928F500][000001789268A840 49] iPadPro4_129, [000001789931D400][000001789268E9C0 49] AppleTV, [000001789928CB00][0000017892692B40 49] AppleTV4K, [000001789931C700][0000017892696CC0 49] TVOS, [000001789928D900][000001789269AE40 49] Mac, [0000017899235800][000001789269EFC0 49] MacClient, [000001789928D000][00000178926A3140 49] MacNoEditor, [000001789927FB00][00000178926A72C0 49] MacServer, [000001789928C200][00000178926AB440 49] Linux, [000001789927D100][00000178926AF5C0 49] LinuxAArch64, [000001789928F100][00000178926B3740 49] LinuxNoEditor, [000001789927C400][00000178926B78C0 49] LinuxAArch64NoEditor, [000001789928FC00][00000178926BBA40 49] LinuxClient, [000001789927E300][00000178926BFBC0 49] LinuxAArch64Client, [000001789928ED00][00000178926C21C0 49] LinuxServer, [000001789927D500][00000178926C6340 49] LinuxAArch64Server, [000001789928D100][0000017892682480 49] Android, [000001789927F500][00000178926CA5C0 49] Android_Low, [000001789928C400][00000178926CE700 49] Android_Mid, [000001789927DA00][00000178926D6880 49] Android_High, [000001789928EF00][00000178926DAA00 49] Android_Default, [000001789927DC00][00000178926DEB80 49] Android_Adreno4xx, [000001789928FD00][00000178926E2D00 49] Android_Adreno5xx_Low, [000001789927DD00][00000178926E6E80 49] Android_Adreno5xx, [000001789928D500][00000178926EB000 49] Android_Adreno6xx, [000001789927E000][00000178926EF180 49] Android_Adreno6xx_Vulkan, [000001789928DA00][00000178926F3300 49] Android_Mali_T6xx, [000001789927E900][00000178926F7480 49] Android_Mali_T7xx, [000001789928DF00][00000178926FB600 49] Android_Mali_T8xx, [000001789927DE00][00000178926FF780 49] Android_Mali_G71, [000001789928E100][0000017892703900 49] Android_Mali_G72, [000001789927C500][0000017892707A80 49] Android_Mali_G72_Vulkan, [000001789928E800][000001789270BC00 49] Android_Mali_G76, [000001789927D800][000001789270E200 49] Android_Mali_G76_Vulkan, [000001789928E600][0000017892712380 49] Android_Mali_G77, [000001789927F100][0000017892716500 49] Android_Mali_G77_Vulkan, [000001789928DE00][00000178926D2640 49] Android_Mali_G78, [000001789927CF00][000001789271A780 49] Android_Mali_G78_Vulkan, [000001789928D200][000001789271E8C0 49] Android_Mali_G710, [000001789927F000][0000017892726A40 49] Android_Mali_G710_Vulkan, [000001789928F400][000001789272ABC0 49] Android_Vulkan_SM5, [000001789927CA00][000001789272ED40 49] Android_PowerVR_G6xxx, [000001789928EB00][0000017892732EC0 49] Android_PowerVR_GT7xxx, [000001789927D400][0000017892737040 49] Android_PowerVR_GE8xxx, [000001789928C900][000001789273B1C0 49] Android_PowerVR_GM9xxx, [000001789927F200][0000017891F31340 49] Android_PowerVR_GM9xxx_Vulkan, [000001789928E500][0000017891F354C0 49] Android_TegraK1, [000001789927EF00][0000017891F39640 49] Android_Unknown_Vulkan, [000001789928CD00][0000017891F3D7C0 49] Lumin, [000001789927F700][0000017891F41940 49] Lumin_Desktop, [000001789928CE00][0000017891F45AC0 49] HoloLens, 
+[2021.11.05-02.10.15:324][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.05-02.10.15:324][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.05-02.10.15:324][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.05-02.10.15:324][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.05-02.10.15:324][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.05-02.10.15:504][  0]LogNetVersion: FighterFlight 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2687385895)
+[2021.11.05-02.10.15:792][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.05-02.10.15:995][  0]LogMoviePlayer: Initializing movie player
+[2021.11.05-02.10.16:110][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 55BD68DF454AB0235EF8E4BD9D479E76 | Instance: 10C7FBFB4541C741CFDA20948C841BB0 (NOBILIS-18508).
+[2021.11.05-02.10.16:134][  0]LogCollectionManager: Loaded 0 collections in 0.001937 seconds
+[2021.11.05-02.10.16:138][  0]LogFileCache: Scanning file cache for directory 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Collections/' took 0.00s
+[2021.11.05-02.10.16:138][  0]LogFileCache: Scanning file cache for directory 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/Developers/judgementine/Collections/' took 0.00s
+[2021.11.05-02.10.16:138][  0]LogFileCache: Scanning file cache for directory 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/Collections/' took 0.00s
+[2021.11.05-02.10.16:138][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.11.05-02.10.16:291][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.05-02.10.16:291][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.05-02.10.16:291][  0]LogPython: Using Python 3.7.7
+[2021.11.05-02.10.16:885][  0]SourceControl: Source control is disabled
+[2021.11.05-02.10.16:885][  0]SourceControl: Source control is disabled
+[2021.11.05-02.10.16:889][  0]SourceControl: Source control is disabled
+[2021.11.05-02.10.16:897][  0]LogUProjectInfo: Found projects:
+[2021.11.05-02.10.17:020][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.05-02.10.17:051][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.05-02.10.17:079][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.05-02.10.17:079][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.05-02.10.17:156][  0]LogUObjectArray: 22030 objects as part of root set at end of initial load.
+[2021.11.05-02.10.17:156][  0]LogUObjectAllocator: 5946928 out of 0 bytes used by permanent object pool.
+[2021.11.05-02.10.17:156][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.05-02.10.17:202][  0]LogClass: Display: BoolProperty FBPSteamGroupOfficer::bIsOwner is not initialized properly. Module:AdvancedSteamSessions File:Classes/SteamRequestGroupOfficersCallbackProxy.h
+[2021.11.05-02.10.17:202][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numOnline is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2021.11.05-02.10.17:202][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numInGame is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2021.11.05-02.10.17:202][  0]LogClass: Display: IntProperty FBPSteamGroupInfo::numChatting is not initialized properly. Module:AdvancedSteamSessions File:Classes/AdvancedSteamFriendsLibrary.h
+[2021.11.05-02.10.17:202][  0]LogClass: Display: 4 Uninitialized script struct members found including 0 object properties
+[2021.11.05-02.10.17:203][  0]LogEngine: Initializing Engine...
+[2021.11.05-02.10.17:532][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.05-02.10.17:625][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.05-02.10.17:626][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.05-02.10.17:632][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.05-02.10.17:632][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.05-02.10.17:633][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.05-02.10.17:633][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.05-02.10.17:633][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.05-02.10.17:633][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.05-02.10.17:633][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.05-02.10.17:633][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.05-02.10.17:633][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2021.11.05-02.10.17:633][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2021.11.05-02.10.17:633][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2021.11.05-02.10.17:633][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.05-02.10.17:634][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2021.11.05-02.10.17:634][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2021.11.05-02.10.17:634][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.05-02.10.17:634][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.05-02.10.17:667][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.05-02.10.17:667][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.05-02.10.17:691][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek USB2.0 Audio)
+[2021.11.05-02.10.17:698][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.05-02.10.17:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.05-02.10.17:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.05-02.10.17:700][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.05-02.10.17:701][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.05-02.10.17:701][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.05-02.10.17:702][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.05-02.10.17:702][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.05-02.10.17:702][  0]LogInit: FAudioDevice initialized.
+[2021.11.05-02.10.17:703][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.05-02.10.17:778][  0]LogDerivedDataCache: Saved boot cache 0.07s 96MB C:/Users/judgementine/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.05-02.10.17:778][  0]LogInit: Texture streaming: Enabled
+[2021.11.05-02.10.17:852][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.05-02.10.17:852][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.05-02.10.17:852][  0]LogInit: Display: Game Engine Initialized.
+[2021.11.05-02.10.17:853][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.11.05-02.10.17:897][  0]LogOutputDevice: Warning: 
 
 Script Stack (0 frames):
 
-[2021.11.05-01.03.33:504][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.073 s
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: === Handled ensure: ===
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: 
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0) [File:D:\Build\++UE4\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRInput\Private\OpenXRInput.cpp] [Line: 390]
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_PATH_UNSUPPORTED
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: Stack: 
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbda4326bd UE4Editor-OpenXRInput.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbda427dee UE4Editor-OpenXRInput.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbda424b6e UE4Editor-OpenXRInput.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbda42d80f UE4Editor-OpenXRInput.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc3707174d UE4Editor-Core.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc72bc6433 UE4Editor-Projects.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc72bdcaba UE4Editor-Projects.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc72bc61b0 UE4Editor-Projects.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654dd31c6 UE4Editor.exe!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc09f5b690 UE4Editor-UnrealEd.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654df0e2b UE4Editor.exe!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654df10aa UE4Editor.exe!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654df40cd UE4Editor.exe!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654e05984 UE4Editor.exe!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654e0853a UE4Editor.exe!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc99b67034 KERNEL32.DLL!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc9b302651 ntdll.dll!UnknownFunction []
-[2021.11.05-01.03.33:504][  0]LogOutputDevice: Error: 
-[2021.11.05-01.03.33:509][  0]LogStats:                SubmitErrorReport -  0.000 s
-[2021.11.05-01.03.35:697][  0]LogStats:                    SendNewReport -  2.188 s
-[2021.11.05-01.03.35:697][  0]LogStats:             FDebug::EnsureFailed -  2.266 s
-[2021.11.05-01.03.35:746][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
-[2021.11.05-01.03.35:751][  0]SourceControl: Source control is disabled
-[2021.11.05-01.03.35:752][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.456
-[2021.11.05-01.03.35:752][  0]Cmd: MAP LOAD FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Maps/VR_MenuMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2021.11.05-01.03.35:752][  0]LightingResults: New page: Lighting Build
-[2021.11.05-01.03.35:755][  0]LogAudioMixer: Resetting audio stream to device id 
-[2021.11.05-01.03.35:776][  0]LogAudioMixer: Display: 0: FrontLeft
-[2021.11.05-01.03.35:776][  0]LogAudioMixer: Display: 1: FrontRight
-[2021.11.05-01.03.35:818][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-01.03.35:818][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-01.03.35:818][  0]MapCheck: New page: Map Check
-[2021.11.05-01.03.35:818][  0]LightingResults: New page: Lighting Build
-[2021.11.05-01.03.35:824][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
-[2021.11.05-01.03.35:828][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
-[2021.11.05-01.03.36:879][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VR_MenuMap'.
-[2021.11.05-01.03.36:881][  0]LogAIModule: Creating AISystem for world VR_MenuMap
-[2021.11.05-01.03.36:886][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2021.11.05-01.03.36:902][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
-[2021.11.05-01.03.36:903][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2021.11.05-01.03.36:903][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.282ms to complete.
-[2021.11.05-01.03.36:903][  0]LogFileHelpers: Loading map 'VR_MenuMap' took 1.152
-[2021.11.05-01.03.36:906][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.610
-[2021.11.05-01.03.37:094][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.11.05-01.03.37:104][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.11.05-01.03.37:115][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.11.05-01.03.37:122][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2021.11.05-01.03.37:139][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0115 seconds. Added 3836 classes and 926 folders.
-[2021.11.05-01.03.37:141][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2021.11.05-01.03.37:142][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.11.05-01.03.37:142][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.11.05-01.03.37:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
-[2021.11.05-01.03.37:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
-[2021.11.05-01.03.37:143][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.11.05-01.03.37:143][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:143][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.11.05-01.03.37:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:143][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
-[2021.11.05-01.03.37:144][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
-[2021.11.05-01.03.37:144][  0]LogPakFile: PakFile PrimaryIndexSize=191
-[2021.11.05-01.03.37:145][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
-[2021.11.05-01.03.37:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
-[2021.11.05-01.03.37:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
-[2021.11.05-01.03.37:145][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.11.05-01.03.37:145][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:145][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.11.05-01.03.37:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:145][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/StarterContent.upack)
-[2021.11.05-01.03.37:145][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
-[2021.11.05-01.03.37:146][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.11.05-01.03.37:146][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.11.05-01.03.37:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
-[2021.11.05-01.03.37:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
-[2021.11.05-01.03.37:147][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.11.05-01.03.37:147][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.11.05-01.03.37:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
-[2021.11.05-01.03.37:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
-[2021.11.05-01.03.37:148][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.11.05-01.03.37:148][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:148][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.11.05-01.03.37:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_Flying.upack)
-[2021.11.05-01.03.37:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
-[2021.11.05-01.03.37:149][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.11.05-01.03.37:149][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.11.05-01.03.37:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
-[2021.11.05-01.03.37:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
-[2021.11.05-01.03.37:149][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.11.05-01.03.37:149][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:149][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.11.05-01.03.37:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:149][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
-[2021.11.05-01.03.37:149][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
-[2021.11.05-01.03.37:150][  0]LogPakFile: PakFile PrimaryIndexSize=182
-[2021.11.05-01.03.37:150][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
-[2021.11.05-01.03.37:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
-[2021.11.05-01.03.37:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
-[2021.11.05-01.03.37:151][  0]LogPakFile: PakFile PrimaryIndexSize=184
-[2021.11.05-01.03.37:151][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:151][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
-[2021.11.05-01.03.37:151][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:151][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
-[2021.11.05-01.03.37:151][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
-[2021.11.05-01.03.37:152][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.11.05-01.03.37:152][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.11.05-01.03.37:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_Rolling.upack)
-[2021.11.05-01.03.37:152][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
-[2021.11.05-01.03.37:152][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.11.05-01.03.37:152][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:152][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.11.05-01.03.37:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:152][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
-[2021.11.05-01.03.37:152][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
-[2021.11.05-01.03.37:153][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.11.05-01.03.37:153][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.11.05-01.03.37:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
-[2021.11.05-01.03.37:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
-[2021.11.05-01.03.37:154][  0]LogPakFile: PakFile PrimaryIndexSize=190
-[2021.11.05-01.03.37:154][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:154][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
-[2021.11.05-01.03.37:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
-[2021.11.05-01.03.37:154][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
-[2021.11.05-01.03.37:154][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.11.05-01.03.37:155][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:155][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.11.05-01.03.37:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:155][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
-[2021.11.05-01.03.37:155][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
-[2021.11.05-01.03.37:156][  0]LogPakFile: PakFile PrimaryIndexSize=189
-[2021.11.05-01.03.37:156][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
-[2021.11.05-01.03.37:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
-[2021.11.05-01.03.37:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
-[2021.11.05-01.03.37:156][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.11.05-01.03.37:156][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:156][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.11.05-01.03.37:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:156][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_TopDown.upack)
-[2021.11.05-01.03.37:156][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
-[2021.11.05-01.03.37:157][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.11.05-01.03.37:157][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.11.05-01.03.37:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
-[2021.11.05-01.03.37:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
-[2021.11.05-01.03.37:158][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.11.05-01.03.37:158][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.11.05-01.03.37:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
-[2021.11.05-01.03.37:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
-[2021.11.05-01.03.37:159][  0]LogPakFile: PakFile PrimaryIndexSize=187
-[2021.11.05-01.03.37:159][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:159][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
-[2021.11.05-01.03.37:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:159][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
-[2021.11.05-01.03.37:159][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
-[2021.11.05-01.03.37:160][  0]LogPakFile: PakFile PrimaryIndexSize=183
-[2021.11.05-01.03.37:160][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
-[2021.11.05-01.03.37:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
-[2021.11.05-01.03.37:160][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
-[2021.11.05-01.03.37:160][  0]LogPakFile: PakFile PrimaryIndexSize=186
-[2021.11.05-01.03.37:160][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:160][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
-[2021.11.05-01.03.37:160][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
-[2021.11.05-01.03.37:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
-[2021.11.05-01.03.37:161][  0]LogPakFile: PakFile PrimaryIndexSize=188
-[2021.11.05-01.03.37:161][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
-[2021.11.05-01.03.37:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
-[2021.11.05-01.03.37:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
-[2021.11.05-01.03.37:162][  0]LogPakFile: PakFile PrimaryIndexSize=185
-[2021.11.05-01.03.37:162][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:162][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
-[2021.11.05-01.03.37:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:162][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
-[2021.11.05-01.03.37:162][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
-[2021.11.05-01.03.37:163][  0]LogPakFile: PakFile PrimaryIndexSize=192
-[2021.11.05-01.03.37:163][  0]LogPakFile: PakFile PathHashIndexSize=101
-[2021.11.05-01.03.37:163][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
-[2021.11.05-01.03.37:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'G:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
-[2021.11.05-01.03.37:163][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:G:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
-[2021.11.05-01.03.37:163][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
-[2021.11.05-01.03.37:252][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2021.11.05-01.03.37:253][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
-[2021.11.05-01.03.37:343][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2021.11.05-01.03.37:344][  0]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2021.11.05-01.03.37:348][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2021.11.05-01.03.37:485][  0]LogRenderer: Reallocating scene render targets to support 1300x544 Format 10 NumSamples 4 (Frame:1).
-[2021.11.05-01.03.37:684][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2021.11.05-01.03.37:684][  0]LogLoad: (Engine Initialization) Total time: 16.39 seconds
-[2021.11.05-01.03.37:684][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2021.11.05-01.03.37:777][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2021.11.05-01.03.37:844][  0]LogResonanceAudio: Display: Resonance Audio Listener is initialized
-[2021.11.05-01.03.37:847][  1]LogRenderer: Reallocating scene render targets to support 1300x552 Format 10 NumSamples 4 (Frame:3).
-[2021.11.05-01.03.37:860][  1]LogAssetRegistry: Asset discovery search completed in 8.3870 seconds
-[2021.11.05-01.03.37:866][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
-[2021.11.05-01.03.37:958][  2]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.11.05-01.03.44:290][575]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2021.11.05-01.03.44:303][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
-[2021.11.05-01.03.44:581][575]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
-[2021.11.05-01.03.45:780][575]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
-[2021.11.05-01.03.45:780][575]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
-[2021.11.05-01.03.45:794][575]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2021.11.05-01.03.46:014][576]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2021.11.05-01.05.20:696][459]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.05.20:773][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
-[2021.11.05-01.05.20:977][459]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2021.11.05-01.06.56:126][817]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.06.56:200][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
-[2021.11.05-01.07.23:374][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.07.23:956][350]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawnDD717C814E3C8FAABA9585AFA3A21AAC.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.23:957][350]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset', retrying in .5s...
-[2021.11.05-01.07.24:457][350]LogFileManager: Error: Error deleting file 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'.
-[2021.11.05-01.07.24:457][350]LogSavePackage: Error: Error saving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.27:733][350]LogSlate: Window 'Message' being destroyed
-[2021.11.05-01.07.27:741][350]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/VRTemplate/Blueprints/VRPawn' (VRPawn.uasset) failed to save.
-
-Cancel: Stop saving all assets and return to the editor.
-Retry: Attempt to save the asset again.
-Continue: Skip saving this asset only.
-[2021.11.05-01.07.27:741][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.07.28:308][350]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn35CACD8C46415160F1AEA3A2648D892E.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.28:309][350]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset', retrying in .5s...
-[2021.11.05-01.07.28:810][350]LogFileManager: Error: Error deleting file 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'.
-[2021.11.05-01.07.28:810][350]LogSavePackage: Error: Error saving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.30:485][350]LogSlate: Window 'Message' being destroyed
-[2021.11.05-01.07.30:494][350]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/VRTemplate/Blueprints/VRPawn' (VRPawn.uasset) failed to save.
-
-Cancel: Stop saving all assets and return to the editor.
-Retry: Attempt to save the asset again.
-Continue: Skip saving this asset only.
-[2021.11.05-01.07.30:540][350]EditorErrors: New page: Save Output
-[2021.11.05-01.07.30:540][350]EditorErrors: Warning: Error saving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.30:540][350]EditorErrors: Warning: Error saving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.35:321][350]LogSlate: Window 'Packages Failed To Save' being destroyed
-[2021.11.05-01.07.35:332][350]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
-/Game/VRTemplate/Blueprints/VRPawn
-[2021.11.05-01.07.41:912][955]LogSlate: Window 'Message Log' being destroyed
-[2021.11.05-01.07.41:922][955]LogSlate: Window 'Message Log' being destroyed
-[2021.11.05-01.07.42:903][ 33]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.07.42:905][ 33]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.07.42:905][ 33]LogSlate: Window 'VRPawn' being destroyed
-[2021.11.05-01.07.42:915][ 33]LogSlate: Window 'VRPawn' being destroyed
-[2021.11.05-01.07.42:919][ 33]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-01.07.42:919][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-01.07.44:573][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.07.45:937][194]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn7B15267141CC292CBA6C6E92FAA1C083.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.45:937][194]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset', retrying in .5s...
-[2021.11.05-01.07.46:438][194]LogFileManager: Error: Error deleting file 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'.
-[2021.11.05-01.07.46:438][194]LogSavePackage: Error: Error saving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.54:306][194]LogSlate: Window 'Message' being destroyed
-[2021.11.05-01.07.54:317][194]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/VRTemplate/Blueprints/VRPawn' (VRPawn.uasset) failed to save.
-
-Cancel: Stop saving all assets and return to the editor.
-Retry: Attempt to save the asset again.
-Continue: Skip saving this asset only.
-[2021.11.05-01.07.54:317][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.07.55:334][194]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawnF34235F742F0D69DB73923B3E553F829.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.55:352][194]EditorErrors: New page: Save Output
-[2021.11.05-01.07.55:352][194]EditorErrors: Warning: Error saving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.07.55:429][194]AssetCheck: New page: Asset Save: VRPawn
-[2021.11.05-01.07.55:429][194]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
-[2021.11.05-01.07.56:934][350]LogSlate: Window 'Message Log' being destroyed
-[2021.11.05-01.07.56:941][350]LogSlate: Window 'Message Log' being destroyed
-[2021.11.05-01.07.58:870][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
-[2021.11.05-01.08.54:302][559]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.08.54:315][559]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.08.56:321][674]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
-[2021.11.05-01.09.46:680][424]BlueprintLog: New page: Compile Turret_joystick
-[2021.11.05-01.09.46:752][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
-[2021.11.05-01.10.01:095][721]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Turret_joystickEB5608C94C18EAE35A2C1796A7D55536.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/Turret_joystick.uasset'
-[2021.11.05-01.10.01:118][721]AssetCheck: New page: Asset Save: Turret_joystick
-[2021.11.05-01.10.01:118][721]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/Turret_joystick.Turret_joystick
-[2021.11.05-01.10.04:073][975]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.10.04:081][975]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.10.04:082][975]LogSlate: Window 'Turret_joystick' being destroyed
-[2021.11.05-01.10.04:092][975]LogSlate: Window 'Turret_joystick' being destroyed
-[2021.11.05-01.10.04:108][975]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-01.10.04:108][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-01.10.04:186][975]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
-[2021.11.05-01.10.04:186][975]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-01.10.04:186][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-01.10.07:140][287]LogSlate: Slate User Unregistered.  User Index 8
-[2021.11.05-01.10.07:140][287]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
-[2021.11.05-01.10.07:142][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
-[2021.11.05-01.12.04:555][267]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
-[2021.11.05-01.12.05:210][267]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
-[2021.11.05-01.12.05:210][267]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
-[2021.11.05-01.13.48:963][114]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.13.49:043][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
-[2021.11.05-01.13.50:754][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.13.51:365][228]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawnFB2630644F38590310B4C6B24688E84B.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.13.51:417][228]AssetCheck: New page: Asset Save: VRPawn
-[2021.11.05-01.13.51:417][228]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
-[2021.11.05-01.14.27:883][453]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.14.27:970][453]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
-[2021.11.05-01.14.55:529][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.14.56:409][907]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawnF0227B334A0340645A9E68AEC94C0C68.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.14.56:445][907]AssetCheck: New page: Asset Save: VRPawn
-[2021.11.05-01.14.56:445][907]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
-[2021.11.05-01.15.25:938][785]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.15.25:941][785]LogSlate: Window 'Compiler Results' being destroyed
-[2021.11.05-01.15.48:233][850]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
-[2021.11.05-01.15.48:237][850]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VR_MenuMap' took 0.105
-[2021.11.05-01.15.48:237][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
-[2021.11.05-01.15.48:237][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
-[2021.11.05-01.15.48:458][850]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn_Auto1DAD1E4BC4E8CBFD1E2AFEFB61594E152.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto1.uasset'
-[2021.11.05-01.15.48:459][850]LogFileHelpers: Auto-saving content packages took 0.223
-[2021.11.05-01.16.46:367][603]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.16.46:456][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
-[2021.11.05-01.17.57:094][315]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.17.57:181][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
-[2021.11.05-01.18.05:328][812]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.18.05:414][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
-[2021.11.05-01.21.59:627][395]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2021.11.05-01.26.30:021][971]LogEditorTransaction: Undo Resize Node
-[2021.11.05-01.26.31:188][ 22]LogEditorTransaction: Undo Move Nodes
-[2021.11.05-01.27.31:939][149]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.27.32:032][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
-[2021.11.05-01.27.45:178][ 24]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.27.45:266][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
-[2021.11.05-01.28.00:320][149]BlueprintLog: New page: Compile VRPawn
-[2021.11.05-01.28.00:425][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
-[2021.11.05-01.28.01:690][229]LogSlate: Window 'VRPawn' being destroyed
-[2021.11.05-01.28.01:701][229]LogSlate: Window 'VRPawn' being destroyed
-[2021.11.05-01.28.01:707][229]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
-[2021.11.05-01.28.01:707][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2021.11.05-01.28.03:583][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.28.04:249][432]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawnAC73FA004A94C37B587CCA8E2C98EEBB.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.28.04:291][432]AssetCheck: New page: Asset Save: VRPawn
-[2021.11.05-01.28.04:291][432]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
-[2021.11.05-01.28.04:452][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
-[2021.11.05-01.28.05:837][441]LogSavePackage: Moving 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Saved/VRPawn5D6DAE9D4B044E7C7BA48992A3FF4101.tmp' to 'C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Content/VRTemplate/Blueprints/VRPawn.uasset'
-[2021.11.05-01.28.05:866][441]AssetCheck: New page: Asset Save: VRPawn
-[2021.11.05-01.28.05:866][441]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2021.11.05-02.10.17:942][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.045 s
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: 
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0) [File:D:\Build\++UE4\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRInput\Private\OpenXRInput.cpp] [Line: 390]
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_PATH_UNSUPPORTED
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: Stack: 
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdaad26bd UE4Editor-OpenXRInput.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdaac7dee UE4Editor-OpenXRInput.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdaac4b6e UE4Editor-OpenXRInput.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffbdaacd80f UE4Editor-OpenXRInput.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc3707174d UE4Editor-Core.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc72bc6433 UE4Editor-Projects.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc72bdcaba UE4Editor-Projects.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc72bc61b0 UE4Editor-Projects.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654dd31c6 UE4Editor.exe!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654df0e32 UE4Editor.exe!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654df10aa UE4Editor.exe!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654df40cd UE4Editor.exe!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654e05984 UE4Editor.exe!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ff654e0853a UE4Editor.exe!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc99b67034 KERNEL32.DLL!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc9b302651 ntdll.dll!UnknownFunction []
+[2021.11.05-02.10.17:942][  0]LogOutputDevice: Error: 
+[2021.11.05-02.10.17:954][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2021.11.05-02.10.19:452][  0]LogStats:                    SendNewReport -  1.499 s
+[2021.11.05-02.10.19:452][  0]LogStats:             FDebug::EnsureFailed -  1.555 s
+[2021.11.05-02.10.19:490][  0]LogInit: Display: Starting Game.
+[2021.11.05-02.10.19:490][  0]LogNet: Browse: /Game/VRTemplate/Maps/VR_MenuMap?Name=Player
+[2021.11.05-02.10.19:490][  0]LogLoad: LoadMap: /Game/VRTemplate/Maps/VR_MenuMap?Name=Player
+[2021.11.05-02.10.19:490][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.11.05-02.10.19:492][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.05-02.10.19:492][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.05-02.10.19:497][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.05-02.10.19:504][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.11.05-02.10.20:336][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VR_MenuMap'.
+[2021.11.05-02.10.20:347][  0]LogAIModule: Creating AISystem for world VR_MenuMap
+[2021.11.05-02.10.20:347][  0]LogLoad: Game class is 'VRGameMode_C'
+[2021.11.05-02.10.20:350][  0]LogWorld: Bringing World /Game/VRTemplate/Maps/VR_MenuMap.VR_MenuMap up for play (max tick rate 0) at 2021.11.04-21.10.20
+[2021.11.05-02.10.20:350][  0]LogWorld: Bringing up level for play took: 0.003187
+[2021.11.05-02.10.20:351][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.05-02.10.20:353][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.05-02.10.20:353][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.05-02.10.20:353][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.05-02.10.20:355][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.11.05-02.10.20:355][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.11.05-02.10.20:358][  0]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
+[2021.11.05-02.10.20:358][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.05-02.10.20:358][  0]LogLoad: Took 0.868033 seconds to LoadMap(/Game/VRTemplate/Maps/VR_MenuMap)
+[2021.11.05-02.10.20:478][  0]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2021.11.05-02.10.20:479][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.05-02.10.20:492][  0]LogRenderer: Warning: Resizing VR buffer to 4112 by 2552
+[2021.11.05-02.10.20:492][  0]LogRenderer: Reallocating scene render targets to support 4112x2552 Format 10 NumSamples 4 (Frame:1).
+[2021.11.05-02.10.20:492][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.05-02.10.20:493][  0]LogLoad: (Engine Initialization) Total time: 16.27 seconds
+[2021.11.05-02.10.20:493][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.05-02.10.20:615][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.05-02.10.20:619][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.05-02.10.20:736][  1]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.05-02.11.10:706][285]LogOnlineSession: Warning: STEAM: Can't destroy a null online session (GameSession)
+[2021.11.05-02.11.10:706][285]LogOnlineSession: Warning: STEAM: Cannot create session 'GameSession': session already exists.
+[2021.11.05-02.11.10:707][285]LogBlueprintUserMessages: [BPW_MenuHost_C_1] Session Creation Failed
+[2021.11.05-02.11.10:707][285]LogBlueprintUserMessages: [BPW_MenuHost_C_1] Session Creation Failed
+[2021.11.05-02.11.10:728][287]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: dumping NamedSession: 
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: 	SessionName: GameSession
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: 	HostingPlayerNum: 0
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: 	SessionState: Pending
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: 	RegisteredPlayers: 
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: 	    0 registered players
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: dumping Session: 
+[2021.11.05-02.11.10:925][305]LogOnlineSession: Verbose: OSS: 	OwningPlayerName: Judgementine
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	OwningPlayerId: Judgementine [0x110000103501CD9]
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	NumOpenPrivateConnections: 0
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	NumOpenPublicConnections: 99
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	SessionInfo: HostIP: INVALID SteamP2P: 76561198015847641:7777 Type: Lobby session SessionId: Lobby[0x18600000B2EE3AD]
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: dumping SessionSettings: 
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	NumPublicConnections: 100
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	NumPrivateConnections: 0
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bIsLanMatch: false
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bIsDedicated: false
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bUsesStats: false
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bShouldAdvertise: true
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bAllowJoinInProgress: true
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bAllowInvites: true
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bUsesPresence: true
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresence: true
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresenceFriendsOnly: false
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	BuildUniqueId: 0x0105c47c
+[2021.11.05-02.11.10:926][305]LogOnlineSession: Verbose: OSS: 	Settings:
+[2021.11.05-02.11.15:612][727]LogOnlineSession: Warning: STEAM: Cannot create session 'GameSession': session already exists.
+[2021.11.05-02.11.15:612][727]LogBlueprintUserMessages: [BPW_MenuHost_C_1] Session Creation Failed
+[2021.11.05-02.11.15:612][727]LogOnlineSession: Warning: STEAM: Cannot create session 'GameSession': session already exists.
+[2021.11.05-02.11.15:612][727]LogBlueprintUserMessages: [BPW_MenuHost_C_1] Session Creation Failed
+[2021.11.05-02.11.15:644][730]LogOnline: STEAM: AUTH: Revoking all tickets.
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: dumping NamedSession: 
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	SessionName: GameSession
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	HostingPlayerNum: 0
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	SessionState: Pending
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	RegisteredPlayers: 
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	    0 registered players
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: dumping Session: 
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	OwningPlayerName: Judgementine
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	OwningPlayerId: Judgementine [0x110000103501CD9]
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	NumOpenPrivateConnections: 0
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	NumOpenPublicConnections: 99
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: 	SessionInfo: HostIP: INVALID SteamP2P: 76561198015847641:7777 Type: Lobby session SessionId: Lobby[0x18600000B2EE3B4]
+[2021.11.05-02.11.15:858][749]LogOnlineSession: Verbose: OSS: dumping SessionSettings: 
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	NumPublicConnections: 100
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	NumPrivateConnections: 0
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bIsLanMatch: false
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bIsDedicated: false
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bUsesStats: false
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bShouldAdvertise: true
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bAllowJoinInProgress: true
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bAllowInvites: true
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bUsesPresence: true
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresence: true
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	bAllowJoinViaPresenceFriendsOnly: false
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	BuildUniqueId: 0x0105c47c
+[2021.11.05-02.11.15:859][749]LogOnlineSession: Verbose: OSS: 	Settings:
+[2021.11.05-02.11.16:253][749]LogPackageName: SearchForPackageOnDisk took   0.394s to resolve VRTemplateMap.umap.
+[2021.11.05-02.11.16:254][749]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2021.11.05-02.11.16:254][749]LogGameState: Match State Changed from InProgress to LeavingMap
+[2021.11.05-02.11.16:609][749]LogPackageName: SearchForPackageOnDisk took   0.355s to resolve VRTemplateMap.umap.
+[2021.11.05-02.11.16:609][749]LogNet: Browse: /Game/VRTemplate/Maps/VRTemplateMap??listen
+[2021.11.05-02.11.16:609][749]LogLoad: LoadMap: /Game/VRTemplate/Maps/VRTemplateMap??listen
+[2021.11.05-02.11.16:609][749]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/VR_MenuMap
+[2021.11.05-02.11.16:610][749]LogWorld: UWorld::CleanupWorld for VR_MenuMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.05-02.11.16:611][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.05-02.11.16:643][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.05-02.11.16:665][749]LogSlate: Slate User Unregistered.  User Index 8
+[2021.11.05-02.11.16:665][749]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2021.11.05-02.11.16:666][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.11.05-02.11.17:310][749]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2021.11.05-02.11.17:311][749]LogAIModule: Creating AISystem for world VRTemplateMap
+[2021.11.05-02.11.17:312][749]LogLoad: Game class is 'VRGameMode_C'
+[2021.11.05-02.11.17:312][749]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.11.05-02.11.17:312][749]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.11.05-02.11.17:312][749]LogNet: Display: SteamNetDriver_0 bound to port 7777
+[2021.11.05-02.11.17:313][749]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.11.05-02.11.17:313][749]LogNet: GameNetDriver SteamNetDriver_0 IpNetDriver listening on port 7777
+[2021.11.05-02.11.17:324][749]LogWorld: Bringing World /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2021.11.04-21.11.17
+[2021.11.05-02.11.17:324][749]LogWorld: Bringing up level for play took: 0.011107
+[2021.11.05-02.11.17:325][749]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2021.11.05-02.11.17:325][749]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.05-02.11.17:325][749]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.11.05-02.11.17:325][749]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.11.05-02.11.17:351][749]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2021.11.05-02.11.17:351][749]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2021.11.05-02.11.17:352][749]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.11.05-02.11.17:353][749]LogLoad: Took 0.744265 seconds to LoadMap(/Game/VRTemplate/Maps/VRTemplateMap)
+[2021.11.05-02.12.06:585][ 15]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.11.05-02.12.53:901][217]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
