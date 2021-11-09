@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FighterFlight",
+			"Path": "C:\\Users\\judgementine\\Documents\\GitHub\\VR-Flight-Fighter\\FighterFlight\\Source\\FighterFlight.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FighterFlightEditor",
+			"Path": "C:\\Users\\judgementine\\Documents\\GitHub\\VR-Flight-Fighter\\FighterFlight\\Source\\FighterFlightEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
