@@ -6,8 +6,8 @@
 /NAME:"UE4Editor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\Alexander\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Intermediate\Build\Win64\FighterFlightEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Alexander\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"C:\Users\Alexander\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
-"C:\Users\Alexander\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
-/OUT:"C:\Users\Alexander\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
+"C:\Users\judgementine\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Intermediate\Build\Win64\FighterFlightEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\judgementine\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\judgementine\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\Users\judgementine\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\judgementine\Documents\GitHub\VR-Flight-Fighter\FighterFlight\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
