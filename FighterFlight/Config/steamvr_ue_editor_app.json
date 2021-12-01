@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.fighterflight-17155196.ue4editor.exe",
+			"app_key": "application.generated.ue.fighterflight-17735300.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/judgementine/Documents/GitHub/VR-Flight-Fighter/FighterFlight/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "FighterFlight-17155196 [UE Editor]"
+					"name": "FighterFlight-17735300 [UE Editor]"
 				}
 			}
 		}
