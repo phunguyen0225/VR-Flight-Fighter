@@ -64,6 +64,28 @@
 				},
 				{
 					"mode": "joystick",
+					"path": "/user/hand/right/input/joystick",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/GestureRight"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
+					"path": "/user/hand/left/input/joystick",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/GestureLeft"
+						}
+					}
+				},
+				{
+					"mode": "joystick",
 					"path": "/user/hand/left/input/joystick",
 					"inputs":
 					{
@@ -173,5 +195,5 @@
 			]
 		}
 	},
-	"description": ""
+	"description": "FighterFlight-17735300"
 }
