@@ -64,6 +64,14 @@
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "VRExpansionPlugin",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
